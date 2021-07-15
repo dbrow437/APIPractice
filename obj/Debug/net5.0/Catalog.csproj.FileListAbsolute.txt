@@ -26,3 +26,15 @@
 /Users/dabrown/Desktop/APICourse/Catalog/obj/Debug/net5.0/ref/Catalog.dll
 /Users/dabrown/Desktop/APICourse/Catalog/obj/Debug/net5.0/Catalog.pdb
 /Users/dabrown/Desktop/APICourse/Catalog/obj/Debug/net5.0/Catalog.genruntimeconfig.cache
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/DnsClient.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/SharpCompress.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/dabrown/Desktop/APICourse/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
